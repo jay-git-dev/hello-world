@@ -48,4 +48,4 @@ Here's a sentence with a footnote. [^1] [^2]
 
 ---
 
-### My Great Heading {#custom-id}
+### My Great Heading {#2}
