@@ -20,3 +20,11 @@
 ---
 [google?] (https://google.com)
 ![Hello World](https://user-images.githubusercontent.com/63836654/194877204-17c470d8-842a-44e9-8416-1cbc74281ade.png)
+
+
+### table
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
