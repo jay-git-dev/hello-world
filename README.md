@@ -46,4 +46,6 @@ Here's a sentence with a footnote. [^1] [^2]
 [^1]: This is the footnote.
 [^2]: Another one.
 
+---
+
 ### My Great Heading {#custom-id}
