@@ -49,3 +49,15 @@ Here's a sentence with a footnote. [^1] [^2]
 ---
 
 ### My Great Heading {#2}
+
+Cancer
+: is just a type of diseas.
+
+~~The world is flat.~~
+
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
