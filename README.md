@@ -5,7 +5,7 @@
 **This is Bold Text.**
 *This is italic Text.*
 >blockqoute
-** *This is bold and Italic both.* **
+** *This is bold and Italic dono hain.* **
 1. First item
 2. Second item
 3. Third item
