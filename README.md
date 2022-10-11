@@ -7,8 +7,8 @@
 >blockqoute
 ** *This is bold and Italic dono hain.* **
 1. First item
-2. Second item
-3. Third item
+2. Second items
+3. Third items
 
 ### unorder list
 - First item
